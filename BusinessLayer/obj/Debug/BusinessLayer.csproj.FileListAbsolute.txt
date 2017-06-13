@@ -1,0 +1,9 @@
+D:\GitProjects\Bids\SportsClub\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\GitProjects\Bids\SportsClub\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\GitProjects\Bids\SportsClub\BusinessLayer\bin\Debug\DataLayer.dll
+D:\GitProjects\Bids\SportsClub\BusinessLayer\bin\Debug\Model.dll
+D:\GitProjects\Bids\SportsClub\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\GitProjects\Bids\SportsClub\BusinessLayer\bin\Debug\Model.pdb
+D:\GitProjects\Bids\SportsClub\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\GitProjects\Bids\SportsClub\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\GitProjects\Bids\SportsClub\BusinessLayer\obj\Debug\BusinessLayer.pdb

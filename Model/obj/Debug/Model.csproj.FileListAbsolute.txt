@@ -1,0 +1,5 @@
+D:\GitProjects\Bids\SportsClub\Model\bin\Debug\Model.dll
+D:\GitProjects\Bids\SportsClub\Model\bin\Debug\Model.pdb
+D:\GitProjects\Bids\SportsClub\Model\obj\Debug\Model.dll
+D:\GitProjects\Bids\SportsClub\Model\obj\Debug\Model.pdb
+D:\GitProjects\Bids\SportsClub\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

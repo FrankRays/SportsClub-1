@@ -1,0 +1,8 @@
+D:\GitProjects\Bids\SportsClub\DataLayer\bin\Debug\DataLayer.dll
+D:\GitProjects\Bids\SportsClub\DataLayer\bin\Debug\DataLayer.pdb
+D:\GitProjects\Bids\SportsClub\DataLayer\obj\Debug\DataLayer.dll
+D:\GitProjects\Bids\SportsClub\DataLayer\obj\Debug\DataLayer.pdb
+D:\GitProjects\Bids\SportsClub\DataLayer\bin\Debug\ServiceLayer.dll
+D:\GitProjects\Bids\SportsClub\DataLayer\bin\Debug\ServiceLayer.pdb
+D:\GitProjects\Bids\SportsClub\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\GitProjects\Bids\SportsClub\DataLayer\bin\Debug\DataLayer.dll.config

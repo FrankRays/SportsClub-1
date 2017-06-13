@@ -1,0 +1,6 @@
+D:\GitProjects\Bids\SportsClub\ServiceLayer\bin\Debug\ServiceLayer.dll.config
+D:\GitProjects\Bids\SportsClub\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\GitProjects\Bids\SportsClub\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\GitProjects\Bids\SportsClub\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\GitProjects\Bids\SportsClub\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\GitProjects\Bids\SportsClub\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Sports Club</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                    @Html.ActionLink("Sports Club", "Index", "Sport", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav"></ul>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div>
+            <table>
+                <tbody>
+                    <tr>
+                        <td> <span class="btn btn-primary"><a href="@Url.Action("Details","Sport", new { continent = "Europe" })">  Soccer </a> </span></td>
+                        <td> <span class="btn btn-primary"><a href="@Url.Action("Details","Sport", new { continent = "North America" })"> FootBall</a> </span></td>
+                        <td> <span class="btn btn-primary"><a href="@Url.Action("Details","Sport", new { continent = "North America" })"> Basket Ball </a> </span></td>
+                        <td> <span class="btn btn-primary"><a href="@Url.Action("Details","Sport", new { continent = "Asia" })"> Cricket </a> </span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="clearfix"></div>
+        <div class="dropdown" style="margin-left:28em!important">
+            <button class="btn btn-danger dropdown-toggle" type="button" data-toggle="dropdown" id="contientdropdown">
+                Select Continent
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" style="margin-left:6.8em!important">
+                <li><a href="@Url.Action("Details","Sport", new { continent = "Asia" })">Asia</a></li>
+                <li><a href="@Url.Action("Details","Sport", new { continent = "North America" })">North America</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="container body-content">
+        
+        @RenderBody()
+        <hr />
+        <footer>
+            <p class="pull-left">
+                &copy; @DateTime.Now.Year - Sports Club &ndash;
+                <div class="dropdown">
+                    <button class="glyphicon glyphicon-cog dropdown-toggle" type="button" data-toggle="dropdown"></button>
+                    <ul id="theme-dropdown" class="dropdown-menu">
+                        <li><a href="#">darky</a></li>
+                        <li><a href="#">cerulean</a></li>
+                        <li><a href="#">cosmo</a></li>
+                    </ul>
+                </div>
+            </p>
+        </footer>
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/SportsClubApp.js"></script>
+</body>
+</html>

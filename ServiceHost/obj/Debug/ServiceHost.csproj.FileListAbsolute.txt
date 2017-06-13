@@ -1,0 +1,8 @@
+D:\GitProjects\Bids\SportsClub\ServiceHost\obj\Debug\ServiceHost.csprojResolveAssemblyReference.cache
+D:\GitProjects\Bids\SportsClub\ServiceHost\bin\ServiceHost.dll.config
+D:\GitProjects\Bids\SportsClub\ServiceHost\bin\ServiceHost.dll
+D:\GitProjects\Bids\SportsClub\ServiceHost\bin\ServiceHost.pdb
+D:\GitProjects\Bids\SportsClub\ServiceHost\bin\ServiceLayer.dll
+D:\GitProjects\Bids\SportsClub\ServiceHost\bin\ServiceLayer.pdb
+D:\GitProjects\Bids\SportsClub\ServiceHost\obj\Debug\ServiceHost.dll
+D:\GitProjects\Bids\SportsClub\ServiceHost\obj\Debug\ServiceHost.pdb
